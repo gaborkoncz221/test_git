@@ -1,0 +1,7 @@
+Baszus igy is letre lehet hozni egy filet? Azt se tudom h kell uj sort csinalni!
+Egy sima Enter eleg.
+Kulonbozo modok kozott lehet valtogatni.
+Esc az alapig vissza lehet jutni.
+i: insert mod
+v: visual mod
+
